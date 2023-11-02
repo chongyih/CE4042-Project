@@ -1,0 +1,12 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Error and Output Files
+*.err
+*.out
+
+# Job submission script
+*.sh
+
+# Data files
+data/
